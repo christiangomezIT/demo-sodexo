@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
+| ASP.NET | .NET Framework | Azure Web App, Virtual Machine| Versión con errores |
 
 
 # ASP.NET MVC application
